@@ -1,0 +1,24 @@
+{
+  "foods": [
+    {
+      "name": "Chicken",
+      "id": 3
+    },
+    {
+      "name": "Rice",
+      "id": 4
+    },
+    {
+      "name": "Chapo",
+      "id": 5
+    },
+    {
+      "name": "Matoke",
+      "id": 6
+    },
+    {
+      "name": "Matoke",
+      "id": 7
+    }
+  ]
+}
